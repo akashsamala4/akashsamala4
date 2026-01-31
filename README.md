@@ -8,7 +8,7 @@
 
 ### **Hi there 👋 I am Akash 🚀**
 
-**`Wizard of OZ`**
+
 
 <br><br>
 
