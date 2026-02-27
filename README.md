@@ -28,7 +28,7 @@
 ## **Experience**
 
 <a href="www.linkedin.com/in/samalaakash4 ">
-  <img align="right" width="200" src="https://media1.tenor.com/m/wg637WCUeQEAAAAC/giyu-tomioka.gif">
+  <img align="right" width="180" src="https://media1.tenor.com/m/wg637WCUeQEAAAAC/giyu-tomioka.gif">
 </a>
 
 - 📚 Computer Science & AI student passionate about programming and technology.
@@ -38,7 +38,7 @@
 
 ## **Update**
 <a href="https://github.com/akashsamala4">
-  <img align="left" width="150" src="https://media1.tenor.com/m/XUBpaZaAJ08AAAAC/yamamoto-yamamoto-shigekuni.gif">
+  <img align="left" width="250" src="https://media1.tenor.com/m/XUBpaZaAJ08AAAAC/yamamoto-yamamoto-shigekuni.gif">
 </a>
 
 <p align="right">
