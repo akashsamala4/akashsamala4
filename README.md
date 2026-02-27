@@ -14,7 +14,7 @@
 
 ## **About Me**
 <a href="https://github.com/akashsamala4">
-  <img align="left" width="150" src="https://media.tenor.com/VDBCuEiuC_8AAAAM/muzan-arrival.gif">
+  <img align="left" width="150" src="https://media1.tenor.com/m/8BHZJxl0OQcAAAAC/aizen.gif">
 </a><br>
 
 <p align="center">
@@ -38,7 +38,7 @@
 
 ## **Update**
 <a href="https://github.com/akashsamala4">
-  <img align="left" width="150" src="https://media.tenor.com/FMzF7GfCEpMAAAAM/%C3%AB%D1%80%D0%B8%D1%87%D0%B8.gif">
+  <img align="left" width="150" src="https://media1.tenor.com/m/XUBpaZaAJ08AAAAC/yamamoto-yamamoto-shigekuni.gif">
 </a>
 
 <p align="right">
